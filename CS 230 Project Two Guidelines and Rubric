@@ -1,0 +1,39 @@
+Competency
+In this project, you will demonstrate your mastery of the following competency:
+
+Evaluate the characteristics, advantages, and weaknesses of various platforms
+Scenario
+You work for Creative Technology Solutions (CTS) as a Technology Consultant. Your client, The Gaming Room, currently has a game application, Draw It or Lose It, that was created for Android systems.
+
+Graphic depicting the message draw it or lose it
+
+Draw It or Lose It is loosely similar to the 1980s television game Win, Lose or Draw, where teams compete to guess what is being drawn. Rather than a player drawing images on an easel to help team members guess the puzzle (a phrase, title, or thing), the application will render images from a large library of stock drawings as clues. A game consists of four rounds of play lasting one minute each. Drawings are rendered at a steady rate and are fully complete at the 30-second mark. If the team does not guess the puzzle before time expires, the remaining teams have an opportunity to offer one guess each to solve the puzzle with a 15-second time limit.
+
+Your client is interested in expanding their gaming app to multiple platforms using various software patterns in a distributed environment. Specifically, before making a decision, The Gaming Room has asked for you to evaluate the three traditional operating platforms (Linux, Mac, and Windows), as well as mobile platforms, for how the game application software could be deployed and run and what would be required to do so.
+
+The client has requested that you conduct an evaluation of the characteristics, advantages, and weaknesses of each platform and include your findings in the software design template. This will help to inform their decision on the benefits of each platform and their utility in a distributed environment.
+
+Directions
+Now that you know what the differences are and can design the code for various operating platforms, you will use your experience to evaluate the characteristics, advantages, and weaknesses of each to present to your client. Consider the requirements outlined below and articulate your findings in the table under Evaluation in the software design template. As you complete the table, keep in mind your client’s requirements and look at the situation holistically, as it all has to work together. Specifically, you must address the following requirements in your evaluation of each traditional operating platform (Linux, Mac, and Windows), as well as mobile platforms.
+
+Server Side: The client has asked you to create a web-based application. This implies a server-style configuration for hosting the website and allowing it to scale up to thousands of players. What does this mean for your ability to host the software application on each operating platform listed above?
+
+Evaluate various platforms for their characteristics, advantages, and weaknesses for hosting a web-based software application. Consider the following in your evaluation and articulate your findings in the software design template:
+Does each of the operating platforms offer a server-based deployment method where the website will be hosted?
+What are the potential licensing costs to the client, The Gaming Room, for the server operating system?
+Client Side: The client wishes to move beyond their current Android-only application to supporting players on iOS and Android mobile platforms, as well as traditional desktop-based operating systems. The application must be delivered as a modern, responsive HTML interface running inside the web browser for desktop clients (Linux, Mac, Windows), as well as on mobile platforms. Each will be capable of communicating with the back-end web application running on the server.
+
+Determine the software development considerations (cost, time, expertise) that are necessary for supporting multiple types of clients. Consider the following in your evaluation and articulate your findings in the software design template:
+What is required of the application development process to ensure the application is compatible with all web browser platforms and mobile devices?
+Development Tools
+
+Identify the relevant programming languages and tools (IDEs and other tools) that are used to build this type of software for deploying on each operating platform. Consider the following and articulate your findings in the software design template:
+What impact do these technical requirements have on a development team? Consider whether multiple development teams may be needed.
+Are there licensing costs related to the development tools?
+What to Submit
+To complete this project, you must submit the following:
+
+Software Design Document
+Use the software design template to continue developing documentation for your client. Continue building on to the document using the same template that was provided in Project One and articulate your findings in the table under Evaluation.
+
+Please note: You will only be graded on the sections relevant to Project Two that are outlined in the Directions and Rubric. Although it may be helpful to implement feedback from your instructor on aspects that were outlined in Project One, it is not required for the Project Two submission. The purpose of addressing all elements outlined in this assignment is to create a completed software design template that can be used to move the project forward.
